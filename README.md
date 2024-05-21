@@ -1,16 +1,11 @@
 # thanawat_shop
 
-A new Flutter project.
 
-## Getting Started
+## ฝึกทำ Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="./lib/img/ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.17.png" alt="ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.17" width="300">
+ิ<br>
+<img src="./lib/img/ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.32.png" alt="ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.32" width="300">
+ิ<br>
+<img src="./lib/img/ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.45.png" alt="ภาพถ่ายหน้าจอ 2567-05-21 เวลา 14.56.45" width="300">
